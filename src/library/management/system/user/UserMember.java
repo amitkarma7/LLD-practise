@@ -1,18 +1,18 @@
-package user;
+package library.management.system.user;
 
-public class User {
+public class UserMember {
 
     private String userId;
     private String name;
 
-    public User(String userId, String name) {
+    public UserMember(String userId, String name) {
         this.userId = userId;
         this.name = name;
     }
 
     @Override
     public String toString() {
-        return "User{" +
+        return "UserMember{" +
                 "userId='" + userId + '\'' +
                 ", name='" + name + '\'' +
                 '}';

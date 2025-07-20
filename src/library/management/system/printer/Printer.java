@@ -1,4 +1,4 @@
-package printer;
+package library.management.system.printer;
 
 
 public interface Printer {

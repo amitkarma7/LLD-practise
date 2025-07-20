@@ -1,6 +1,6 @@
-package printer;
+package library.management.system.printer;
 
-import book.Book;
+import library.management.system.book.Book;
 
 public class PrintBookInfo implements Printer{
 

@@ -1,5 +1,5 @@
-package book;
-import auther.Author;
+package library.management.system.book;
+import library.management.system.auther.Author;
 
 
 public class Book {

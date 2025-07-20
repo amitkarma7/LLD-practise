@@ -1,4 +1,4 @@
-package notification;
+package library.management.system.notification;
 
 public class SmsNotificationImple implements Notification{
 

@@ -1,4 +1,4 @@
-package auther;
+package library.management.system.auther;
 
 public class Author {
 
@@ -19,7 +19,7 @@ public class Author {
 
     @Override
     public String toString() {
-        return "auther.Auther{" +
+        return "library.management.system.auther.Auther{" +
                 "name='" + name + '\'' +
                 '}';
     }
